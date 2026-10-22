@@ -1,0 +1,10 @@
+# 原始與轉檔後的大型資料不進版控；僅保留目錄結構
+data/cog/*
+data/vector/*
+data/pointcloud/*
+data/raw/
+!data/*/.gitkeep
+
+__pycache__/
+.venv/
+.ipynb_checkpoints/

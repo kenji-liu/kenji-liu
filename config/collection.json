@@ -1,0 +1,13 @@
+{
+  "id": "mataian-creek",
+  "title": "馬太鞍溪數位身份",
+  "description": "馬太鞍溪多期 UAV 正射影像、DSM/DEM、沖淤差分、數值模擬成果與向量圖資。資料座標系統為 TWD97 TM2 121 (EPSG:3826)。",
+  "license": "proprietary",
+  "keywords": ["馬太鞍溪", "水土保持", "UAV", "DSM", "DoD", "CCHE2D", "HEC-RAS"],
+  "providers": [
+    {
+      "name": "逢甲大學營建及防災研究中心水土保育組",
+      "roles": ["producer", "processor"]
+    }
+  ]
+}
